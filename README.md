@@ -1,2 +1,1 @@
-# first
-first not end
+hello java
